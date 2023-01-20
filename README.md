@@ -8,8 +8,8 @@ run:
 
 > pip install pipenv
 
-> pipenv shell
-
 > pipenv install
+
+> pipenv shell
 
 > python manage.py runserver <port_num>
