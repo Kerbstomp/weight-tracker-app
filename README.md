@@ -1,6 +1,6 @@
 # weight-tracker-app
 
-I created this simple weight tracker app mostly to test for myself the integration of a [React](https://reactjs.org/) application with a [Django](https://www.djangoproject.com/) backend project
+I created this simple weight tracker app mostly to test for myself the integration of a [React](https://reactjs.org/) application with a [Django](https://www.djangoproject.com/) backend project. Added a quick demo at the bottom
 
 ## Installation
 
@@ -24,3 +24,9 @@ python manage.py runserver
 - Ability to select a date when logging new weight
 - Ability to go back to user selection
 - Ability to delete a logged weight
+
+### Demo
+
+
+https://user-images.githubusercontent.com/9484278/216201568-cd4500b5-80dc-4025-817f-5b7bf8363f46.mp4
+
